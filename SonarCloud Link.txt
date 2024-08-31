@@ -1,0 +1,2 @@
+Link analisi:
+https://sonarcloud.io/project/overview?id=AleMangiu_KartGP
